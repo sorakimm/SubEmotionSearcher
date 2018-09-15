@@ -1,0 +1,47 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    {% for result in results %}
+        <div class="result">
+            <div class="filename">
+                <p>File Name: {{ result.smi_filename }}</p>
+            </div>
+            <div class="sentence">
+                <p>{{ result.eng_sentence }}</p>
+                <p>{{ result.kor_sentence }}</p>
+            </div>
+        </div>
+    {% endfor %}
+{% endblock %}
+
+{% block pages %}
+    {% if results.has_other_pages %}
+        <ul class = "pagination">
+            {% if results.has_previous %}
+                <li><a href="?page={{ results.previous_page_number }}">&laquo;</a></li>
+            {% else %}
+                <li class = "disabled"><span>&laquo;</span></li>
+            {% endif %}
+            {% if results.number > 2 %}
+                <li><a href="?page={{ 1 }}"> 1 </a></li>
+                <li ><span>...<span class="sr-only">...</span></span></li>
+            {% endif %}
+            {% for i in page_range %}
+                {% if results.number == i %}
+                    <li class="active"><span>{{ i }} <span class="sr-only">(current)</span></span></li>
+                {% else %}
+                    <li><a href="?page={{ i }}">{{ i }}</a></li>
+                {% endif %}
+            {% endfor %}
+            {% if results.number < max_index %}
+                <li ><span>...<span class="sr-only">...</span></span></li>
+                <li><a href="?page={{ max_index|add:'2' }}">{{ max_index|add:"2" }}</a></li>
+            {% endif %}
+            {% if results.has_next %}
+                <li><a href="?page={{ results.next_page_number }}">&raquo;</a></li>
+            {% else %}
+                <li class="disabled"><span>&raquo;</span></li>
+            {%endif %}
+        </ul>
+    {%endif%}
+{% endblock %}

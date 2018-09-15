@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Search Result Page</title>
+       <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="{% static 'css/search.css' %}">
+        <!--<link href="//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext" rel="stylesheet" type="text/css">-->
+</head>
+<body>
+    <div class="page-header">
+        <h1><a href="/">Subtitle Search Site</a></h1>
+    </div>
+        <ul class="nav nav-pills">
+            <li class="{% if mode == 'home' %}active{% endif %}"><a href="/">Home</a></li>
+            <li class="{% if mode == 'joy' %}active{% endif %}"><a href="/search/joy/">Joy</a></li>
+            <li class="{% if mode == 'sadness' %}active{% endif %}"><a href="/search/sadness/">Sadness</a></li>
+            <li class="{% if mode == 'shame' %}active{% endif %}"><a href="/search/shame/">Shame</a></li>
+            <li class="{% if mode == 'guilt' %}active{% endif %}"><a href="/search/guilt/">Guilt</a></li>
+            <li class="{% if mode == 'disgust' %}active{% endif %}"><a href="/search/disgust/">Disgust</a></li>
+        </ul>
+    <div class="content container">
+        <div class="row">
+            <div class="col-md-8">
+                {% block content %}
+                {% endblock %}
+                <div class="pagination">
+                    <span class="step-links">
+                        {% block pages %}
+                        {% endblock %}
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+

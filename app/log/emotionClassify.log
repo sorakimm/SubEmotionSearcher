@@ -1,0 +1,334 @@
+emo_classify init
+emo_main
+emo_iterate_clean
+emo_iterate_pop_emotion
+emo_iter_pop_text
+emo_create_train
+emo_classify init
+emo_main
+emo_iterate_clean
+emo_classify init
+emo_main
+emo_iterate_clean
+emo_iterate_pop_emotion
+emo_iter_pop_text
+emo_create_train
+emo_iterate_pop_emotion
+emo_iter_pop_text
+emo_create_train
+emo_classify init
+emo_main
+emo_iterate_clean
+emo_iterate_pop_emotion
+emo_iter_pop_text
+emo_create_train
+emo_classify init
+emo_main
+emo_iterate_clean
+emo_iterate_pop_emotion
+emo_iter_pop_text
+emo_create_train
+emo_classify_text
+emo_classify_text
+emo_classify init
+emo_main
+emo_iterate_clean
+emo_iterate_pop_emotion
+emo_iter_pop_text
+emo_create_train
+emo_classify_text
+emo_classify_text
+emo_classify init
+emo_main
+emo_iterate_clean
+emo_iterate_pop_emotion
+emo_iter_pop_text
+emo_create_train
+2018-09-15 15:08:54,296 [EmotionClassifier.py classify_text():83][ERROR] 
+
+emo_classify init
+emo_main
+emo_iterate_clean
+emo_classify init
+emo_main
+emo_iterate_clean
+emo_iterate_pop_emotion
+emo_iter_pop_text
+emo_create_train
+emo_classify init
+emo_main
+emo_iterate_clean
+emo_iterate_pop_emotion
+emo_iter_pop_text
+emo_create_train
+emo_classify init
+emo_main
+emo_iterate_clean
+emo_iterate_pop_emotion
+emo_iter_pop_text
+emo_create_train
+emo_classify init
+C:\Users\Sora\PythonProjects\SubEmoSearcher\app
+emo_main
+emo_iterate_clean
+emo_iterate_pop_emotion
+emo_iter_pop_text
+emo_create_train
+emo_classify init
+C:\Users\Sora\PythonProjects\SubEmoSearcher\app\ISEAR.csv
+          joy    ...     Unnamed: 2
+0        fear    ...            NaN
+1       anger    ...            NaN
+2     sadness    ...            NaN
+3     disgust    ...            NaN
+4       shame    ...            NaN
+5       guilt    ...            NaN
+6         joy    ...            NaN
+7        fear    ...            NaN
+8       anger    ...            NaN
+9     sadness    ...            NaN
+10    disgust    ...            NaN
+11      shame    ...            NaN
+12      guilt    ...            NaN
+13        joy    ...            NaN
+14       fear    ...            NaN
+15      anger    ...            NaN
+16    sadness    ...            NaN
+17    disgust    ...            NaN
+18      shame    ...            NaN
+19      guilt    ...            NaN
+20        joy    ...            NaN
+21       fear    ...            NaN
+22      guilt    ...            NaN
+23        joy    ...            NaN
+24       fear    ...            NaN
+25      anger    ...            NaN
+26    sadness    ...            NaN
+27    disgust    ...            NaN
+28      shame    ...            NaN
+29      guilt    ...            NaN
+...       ...    ...            ...
+7485    shame    ...            NaN
+7486    guilt    ...            NaN
+7487      joy    ...            NaN
+7488     fear    ...            NaN
+7489    anger    ...            NaN
+7490  sadness    ...            NaN
+7491  disgust    ...            NaN
+7492    shame    ...            NaN
+7493    guilt    ...            NaN
+7494      joy    ...            NaN
+7495     fear    ...            NaN
+7496    anger    ...            NaN
+7497  sadness    ...            NaN
+7498     guit    ...            NaN
+7499    shame    ...            NaN
+7500    guilt    ...            NaN
+7501      joy    ...            NaN
+7502     fear    ...            NaN
+7503    anger    ...            NaN
+7504     fear    ...            NaN
+7505    anger    ...            NaN
+7506    shame    ...            NaN
+7507    shame    ...            NaN
+7508      joy    ...            NaN
+7509     fear    ...            NaN
+7510    shame    ...            NaN
+7511    shame    ...            NaN
+7512     fear    ...            NaN
+7513    guilt    ...            NaN
+7514     fear    ...            NaN
+
+[7515 rows x 3 columns]
+emo_main
+emo_iterate_clean
+emo_iterate_pop_emotion
+emo_iter_pop_text
+emo_create_train
+emo_classify init
+C:\Users\Sora\PythonProjects\SubEmoSearcher\app\ISEAR.csv
+          joy    ...     Unnamed: 2
+0        fear    ...            NaN
+1       anger    ...            NaN
+2     sadness    ...            NaN
+3     disgust    ...            NaN
+4       shame    ...            NaN
+5       guilt    ...            NaN
+6         joy    ...            NaN
+7        fear    ...            NaN
+8       anger    ...            NaN
+9     sadness    ...            NaN
+10    disgust    ...            NaN
+11      shame    ...            NaN
+12      guilt    ...            NaN
+13        joy    ...            NaN
+14       fear    ...            NaN
+15      anger    ...            NaN
+16    sadness    ...            NaN
+17    disgust    ...            NaN
+18      shame    ...            NaN
+19      guilt    ...            NaN
+20        joy    ...            NaN
+21       fear    ...            NaN
+22      guilt    ...            NaN
+23        joy    ...            NaN
+24       fear    ...            NaN
+25      anger    ...            NaN
+26    sadness    ...            NaN
+27    disgust    ...            NaN
+28      shame    ...            NaN
+29      guilt    ...            NaN
+...       ...    ...            ...
+7485    shame    ...            NaN
+7486    guilt    ...            NaN
+7487      joy    ...            NaN
+7488     fear    ...            NaN
+7489    anger    ...            NaN
+7490  sadness    ...            NaN
+7491  disgust    ...            NaN
+7492    shame    ...            NaN
+7493    guilt    ...            NaN
+7494      joy    ...            NaN
+7495     fear    ...            NaN
+7496    anger    ...            NaN
+7497  sadness    ...            NaN
+7498     guit    ...            NaN
+7499    shame    ...            NaN
+7500    guilt    ...            NaN
+7501      joy    ...            NaN
+7502     fear    ...            NaN
+7503    anger    ...            NaN
+7504     fear    ...            NaN
+7505    anger    ...            NaN
+7506    shame    ...            NaN
+7507    shame    ...            NaN
+7508      joy    ...            NaN
+7509     fear    ...            NaN
+7510    shame    ...            NaN
+7511    shame    ...            NaN
+7512     fear    ...            NaN
+7513    guilt    ...            NaN
+7514     fear    ...            NaN
+
+[7515 rows x 3 columns]
+{'is', 'were', 'below', 'further', "isn't", 'yourselves', 'each', 'through', 'own', "didn't", 'won', 'i', 'down', 'there', 'most', 'against', 't', 'don', 'its', 'by', "couldn't", 'while', 'theirs', 'ma', 'the', "hasn't", 'was', 'should', 'in', 'again', 'out', 'on', 'than', 'that', 'themselves', 'hers', 'too', 'she', 'who', 'am', 'himself', 'and', 'just', 'now', 'what', "don't", 'such', 'to', 'isn', "won't", 'these', 'other', 'some', 'me', "needn't", 'it', 'whom', 'why', 'does', 'hadn', 'then', 'itself', 'aren', 'will', 'been', 'but', 'weren', 'above', 'with', "mightn't", 'needn', "it's", 'under', 'haven', 'd', 'up', 'couldn', 'because', 'shouldn', 'over', "mustn't", 'has', 'a', "she's", 'ourselves', 'all', 'having', 'until', "doesn't", "wouldn't", 'between', 'so', "weren't", "shan't", 'are', 'did', 'wouldn', "hadn't", "you'd", "you'll", 'mightn', 'mustn', "you're", 'didn', 'an', 'being', 'about', 'any', 'this', 'for', "aren't", 'we', 'ain', 'nor', 'at', 'after', 'had', 'him', 'ours', 'herself', 'his', "wasn't", 'myself', 'into', 'be', 'wasn', 'can', 'not', 'shan', 'more', 'doing', 'from', "you've", 'only', 'her', 'hasn', 'y', 'their', 'my', 'no', 'where', 'o', 'yourself', 'how', 'when', 're', 'your', 'those', 'both', 'or', 'he', 'very', 's', 'them', 'doesn', 'yours', 've', 'our', 'off', "haven't", "shouldn't", 'you', 'if', 'do', "that'll", 'll', 'here', 'once', 'same', 'which', 'm', 'of', 'few', 'have', 'before', 'as', "should've", 'during', 'they'}
+emo_classify init
+C:\Users\Sora\PythonProjects\SubEmoSearcher\app\ISEAR.csv
+          joy    ...     Unnamed: 2
+0        fear    ...            NaN
+1       anger    ...            NaN
+2     sadness    ...            NaN
+3     disgust    ...            NaN
+4       shame    ...            NaN
+5       guilt    ...            NaN
+6         joy    ...            NaN
+7        fear    ...            NaN
+8       anger    ...            NaN
+9     sadness    ...            NaN
+10    disgust    ...            NaN
+11      shame    ...            NaN
+12      guilt    ...            NaN
+13        joy    ...            NaN
+14       fear    ...            NaN
+15      anger    ...            NaN
+16    sadness    ...            NaN
+17    disgust    ...            NaN
+18      shame    ...            NaN
+19      guilt    ...            NaN
+20        joy    ...            NaN
+21       fear    ...            NaN
+22      guilt    ...            NaN
+23        joy    ...            NaN
+24       fear    ...            NaN
+25      anger    ...            NaN
+26    sadness    ...            NaN
+27    disgust    ...            NaN
+28      shame    ...            NaN
+29      guilt    ...            NaN
+...       ...    ...            ...
+7485    shame    ...            NaN
+7486    guilt    ...            NaN
+7487      joy    ...            NaN
+7488     fear    ...            NaN
+7489    anger    ...            NaN
+7490  sadness    ...            NaN
+7491  disgust    ...            NaN
+7492    shame    ...            NaN
+7493    guilt    ...            NaN
+7494      joy    ...            NaN
+7495     fear    ...            NaN
+7496    anger    ...            NaN
+7497  sadness    ...            NaN
+7498     guit    ...            NaN
+7499    shame    ...            NaN
+7500    guilt    ...            NaN
+7501      joy    ...            NaN
+7502     fear    ...            NaN
+7503    anger    ...            NaN
+7504     fear    ...            NaN
+7505    anger    ...            NaN
+7506    shame    ...            NaN
+7507    shame    ...            NaN
+7508      joy    ...            NaN
+7509     fear    ...            NaN
+7510    shame    ...            NaN
+7511    shame    ...            NaN
+7512     fear    ...            NaN
+7513    guilt    ...            NaN
+7514     fear    ...            NaN
+
+[7515 rows x 3 columns]
+{'more', 'not', 'hasn', 'have', "wouldn't", 'by', 'myself', 'i', 'himself', "she's", 'ain', "shan't", 'yours', 't', 'doesn', 'needn', 'herself', "shouldn't", 'do', 'ourselves', 'through', 'being', 'doing', 'y', 'than', 'don', 'or', 'at', 'weren', 'its', "needn't", 'hers', 'very', 'were', 'won', 'there', 'all', 'it', 'been', 'above', 'those', 'some', 's', "that'll", "mustn't", 'our', 'mustn', 'who', 'then', 'below', 'other', 'once', 've', "you'd", 'here', 'whom', 'o', "aren't", 'into', 'where', 'this', 'over', 'few', 'yourself', 'aren', 'am', "doesn't", 'shan', 'having', 'can', 'has', 'should', 'my', 'with', 'wasn', 'off', "wasn't", 'a', 're', 'same', 'her', 'what', 'which', 'just', 'had', 'too', 'ma', 'of', 'that', 'under', "couldn't", 'are', 'because', 'such', 'll', 'hadn', 'wouldn', 'how', "hadn't", 'yourselves', 'own', 'couldn', 'themselves', 'was', 'but', 'will', 'he', 'down', "you've", "hasn't", 'both', 'itself', 'any', 'no', 'be', 'isn', 'nor', 'is', 'now', "haven't", "you'll", 'so', 'd', 'while', 'you', 'they', 'didn', 'if', 'about', 'as', 'further', 'out', 'and', 'these', "isn't", 'him', 'before', "don't", "it's", "you're", 'shouldn', 'between', "mightn't", 'on', 'them', 'for', 'theirs', 'in', 'their', 'again', 'an', "won't", 'during', 'ours', 'did', 'to', 'up', 'the', 'against', 'me', 'she', 'only', 'your', "should've", 'after', 'm', 'most', 'we', 'why', 'his', 'mightn', 'when', 'until', "weren't", "didn't", 'each', 'does', 'haven', 'from'}
+emo_main
+emo_iterate_clean
+emo_iterate_pop_emotion
+emo_iter_pop_text
+emo_create_train
+emo_classify init
+emo_main
+emo_iterate_clean
+emo_iterate_pop_emotion
+emo_iter_pop_text
+emo_create_train
+emo_classify init
+emo_main
+emo_iterate_clean
+emo_iterate_pop_emotion
+emo_iter_pop_text
+emo_create_train
+emo_classify init
+emo_main
+emo_iterate_clean
+emo_iterate_pop_emotion
+emo_iter_pop_text
+emo_create_train
+emo_classify init
+emo_main
+emo_iterate_clean
+emo_iterate_pop_emotion
+emo_iter_pop_text
+emo_create_train
+emo_classify init
+emo_main
+emo_iterate_clean
+emo_iterate_pop_emotion
+emo_iter_pop_text
+emo_create_train
+emo_classify init
+emo_main
+emo_iterate_clean
+emo_iterate_pop_emotion
+emo_iter_pop_text
+emo_create_train
+emo_classify init
+emo_main
+emo_iterate_clean
+emo_iterate_pop_emotion
+emo_iter_pop_text
+emo_create_train
+emo_classify init
+emo_main
+emo_iterate_clean
+emo_iterate_pop_emotion
+emo_iter_pop_text
+emo_create_train
