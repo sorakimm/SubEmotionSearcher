@@ -332,3 +332,16 @@ emo_iterate_clean
 emo_iterate_pop_emotion
 emo_iter_pop_text
 emo_create_train
+emo_classify init
+emo_classify init
+emo_classify init
+emo_classify init
+emo_classify init
+emo_main
+emo_iterate_clean
+emo_iterate_pop_emotion
+emo_iter_pop_text
+emo_create_train
+emo_classify_text
+emo_classify_text
+emo_classify_text
