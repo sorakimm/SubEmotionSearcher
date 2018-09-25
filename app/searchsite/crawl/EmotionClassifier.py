@@ -6,7 +6,7 @@ import string
 from textblob.classifiers import NaiveBayesClassifier
 import pandas as pd
 
-from search.crawl.mylogging import MyLogger
+from searchsite.crawl.mylogging import MyLogger
 
 import os
 
@@ -26,7 +26,7 @@ nltk.download('punkt')
 class emotion_classify:
     def __init__(self):
         emotionClassifyLogger.debug("emo_classify init")
-        cwd = os.getcwd()+'\\search\\crawl'
+        cwd = os.getcwd()+'\\searchsite\\crawl'
         self.df = pd.read_csv(os.path.join(cwd, 'ISEAR.csv'))
         self.a = pd.Series(self.df['joy'])
         self.b = pd.Series(self.df[dataFrame2])

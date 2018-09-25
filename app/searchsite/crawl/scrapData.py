@@ -1,6 +1,6 @@
-from search.crawl.mylogging import MyLogger
-from search.crawl.SubScraper import gomSubScraper
-from search.crawl.EmotionClassifier import emotion_classify
+from searchsite.crawl.mylogging import MyLogger
+from searchsite.crawl.SubScraper import gomSubScraper
+from searchsite.crawl.EmotionClassifier import emotion_classify
 
 
 import os
@@ -12,7 +12,7 @@ os.environ.setdefault("DJANGO_SETTINGS_MODULE", "config.settings")
 import django
 django.setup()
 
-from search.models import Sub
+from searchsite.models import Sub
 
 subScrapDataLogFile = 'log/subScrapData.log'
 subScrapDataLogger = MyLogger(subScrapDataLogFile)

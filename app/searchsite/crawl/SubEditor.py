@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 import re
-from search.crawl.mylogging import MyLogger
+from searchsite.crawl.mylogging import MyLogger
 
 tokenizer = None
 tagger = None

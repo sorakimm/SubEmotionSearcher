@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import re
 import requests
 from requests.compat import urljoin
-from search.crawl.mylogging import MyLogger
-from search.crawl import SubEditor
+from searchsite.crawl.mylogging import MyLogger
+from searchsite.crawl import SubEditor
 
 subScrapLogFile = 'log/subScrap.log'
 subScrapLogger = MyLogger(subScrapLogFile)

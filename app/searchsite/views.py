@@ -1,5 +1,5 @@
-from django.shortcuts import render, get_list_or_404
-from app.search.models import Sub
+from django.shortcuts import get_list_or_404
+from searchsite.models import Sub
 # Create your views here.
 
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger

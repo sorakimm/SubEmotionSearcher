@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'search',
+    'searchsite',
 ]
 
 MIDDLEWARE = [
@@ -55,7 +55,7 @@ ROOT_URLCONF = 'config.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'templetes'), os.path.join(BASE_DIR, 'search/templetes')],
+        'DIRS': [os.path.join(BASE_DIR, 'templetes'), os.path.join(BASE_DIR, 'searchsite/templetes')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -78,7 +78,7 @@ DATABASES = {
      'default': {
         'ENGINE': 'django.db.backends.mysql',
         'OPTIONS': {'charset': 'utf8mb4'},
-        'NAME': 'subs',
+        'NAME': 'sub',
         'USER': 'sorak17',
         'PASSWORD': 'password',
         'HOST': 'localhost',

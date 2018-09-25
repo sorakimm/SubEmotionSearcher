@@ -20,7 +20,7 @@ from django.contrib import admin
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'', include('app.search.urls')),
+    url(r'', include('searchsite.urls')),
     # url(r'^$', main_views.main_page),
-    # url(r'^search/', search_views.search_page),
+    # url(r'^searchsite/', search_views.search_page),
 ]
