@@ -1,32 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa5a1138-1a4c-4fc8-b9f3-10fa1f8f20dd" name="Default" comment="search index update...">
-      <change afterPath="$PROJECT_DIR$/app/searchsite/search/signals.py" afterDir="false" />
+    <list default="true" id="aa5a1138-1a4c-4fc8-b9f3-10fa1f8f20dd" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/config/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/search/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/search/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/search/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/search/crawl/EmotionClassifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/crawl/EmotionClassifier.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/search/crawl/ISEAR.csv" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/crawl/ISEAR.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/search/crawl/SubEditor.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/crawl/SubEditor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/search/crawl/SubScraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/crawl/SubScraper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/search/crawl/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/crawl/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/search/crawl/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/search/crawl/mylogging.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/crawl/mylogging.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/search/crawl/scrapData.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/crawl/scrapData.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/search/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/search/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/search/search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/search/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/search/static/css/search.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/static/css/search.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/search/templetes/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/templetes/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/search/templetes/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/templetes/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/search/templetes/result/search_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/templetes/result/search_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/search/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/search/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/search/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/searchsite/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/searchsite/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/searchsite/crawl/EmotionClassifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/crawl/EmotionClassifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/searchsite/crawl/SubEditor.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/crawl/SubEditor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/searchsite/crawl/SubScraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/crawl/SubScraper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/searchsite/crawl/mylogging.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/crawl/mylogging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/searchsite/crawl/scrapData.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/crawl/scrapData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/searchsite/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/searchsite/static/css/search.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/static/css/search.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/searchsite/templetes/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/templetes/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/searchsite/templetes/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/templetes/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/searchsite/templetes/result/search_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/templetes/result/search_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/searchsite/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/searchsite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/searchsite/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,11 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/searchsite/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="399">
+              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -64,37 +56,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="apps.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/searchsite/apps.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/searchsite/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="11" selection-start-column="11" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/config/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1653">
-              <caret line="87" selection-start-line="87" selection-end-line="87" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="search.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/searchsite/search/search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
+            <state relative-caret-position="299">
               <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
               <folding>
                 <element signature="e#0#53#0" expanded="true" />
@@ -103,47 +68,71 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/config/urls.py">
+      <file leaf-file-name="scrapData.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/searchsite/crawl/scrapData.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="211">
+              <caret line="33" column="35" selection-start-line="33" selection-end-line="34" />
               <folding>
-                <element signature="e#641#682#0" expanded="true" />
+                <element signature="e#0#47#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubEditor.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/searchsite/crawl/SubEditor.py">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/searchsite/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1900">
-              <caret line="101" selection-start-line="101" selection-end-line="101" />
+            <state relative-caret-position="299">
+              <caret line="38" column="32" lean-forward="true" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
               <folding>
-                <element signature="e#23#32#0" expanded="true" />
+                <element signature="e#0#44#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubScraper.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/searchsite/crawl/SubScraper.py">
+      <file leaf-file-name="search_list.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/result/search_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1311">
-              <caret line="74" column="60" selection-start-line="74" selection-start-column="60" selection-end-line="74" selection-end-column="60" />
-              <folding>
-                <element signature="e#23#52#0" expanded="true" />
-              </folding>
+            <state>
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../myvenv/Lib/site-packages/elasticsearch/connection/base.py">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2356">
-              <caret line="124" selection-start-line="124" selection-end-line="124" />
+            <state relative-caret-position="247">
+              <caret line="13" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="25" column="64" lean-forward="true" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/searchsite/static/css/search.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="65" column="1" lean-forward="true" selection-start-line="64" selection-start-column="28" selection-end-line="65" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -154,6 +143,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -199,9 +189,14 @@
         <option value="$PROJECT_DIR$/app/config/settings.py" />
         <option value="$PROJECT_DIR$/app/searchsite/search/signal.py" />
         <option value="$PROJECT_DIR$/app/searchsite/__init__.py" />
-        <option value="$PROJECT_DIR$/app/searchsite/search/search.py" />
         <option value="$PROJECT_DIR$/app/searchsite/apps.py" />
         <option value="$PROJECT_DIR$/app/searchsite/models.py" />
+        <option value="$PROJECT_DIR$/app/searchsite/search/search.py" />
+        <option value="$PROJECT_DIR$/app/searchsite/templetes/test.html" />
+        <option value="$PROJECT_DIR$/app/searchsite/templetes/result/search_list.html" />
+        <option value="$PROJECT_DIR$/app/searchsite/static/css/search.css" />
+        <option value="$PROJECT_DIR$/app/searchsite/templetes/home.html" />
+        <option value="$PROJECT_DIR$/app/searchsite/templetes/base.html" />
       </list>
     </option>
   </component>
@@ -246,7 +241,44 @@
               <item name="SubEmoSearcher" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="searchsite" type="462c0819:PsiDirectoryNode" />
+              <item name="crawl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SubEmoSearcher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SubEmoSearcher" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="searchsite" type="462c0819:PsiDirectoryNode" />
               <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SubEmoSearcher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SubEmoSearcher" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="searchsite" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SubEmoSearcher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SubEmoSearcher" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="searchsite" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SubEmoSearcher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SubEmoSearcher" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="searchsite" type="462c0819:PsiDirectoryNode" />
+              <item name="templetes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SubEmoSearcher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SubEmoSearcher" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="searchsite" type="462c0819:PsiDirectoryNode" />
+              <item name="templetes" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -256,6 +288,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Sora/PythonProjects/SubEmoSearcher/app/config/settings.py" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/manage.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -426,21 +459,28 @@
       <option name="project" value="LOCAL" />
       <updated>1537352918165</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="elasticsearch indexing update&#10;signals updating..">
+      <created>1537894982791</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537894982792</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="793" y="0" width="814" height="867" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33031088" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16200763" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5012953" side_tool="true" weight="0.328125" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32954547" />
-      <window_info anchor="bottom" id="Python Console" order="8" weight="0.328125" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49870467" visible="true" weight="0.32386363" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32678822" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49870467" visible="true" weight="0.31837308" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32678822" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32678822" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997195" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -478,7 +518,8 @@
     <MESSAGE value="crawl update" />
     <MESSAGE value="search index update" />
     <MESSAGE value="search index update..." />
-    <option name="LAST_COMMIT_MESSAGE" value="search index update..." />
+    <MESSAGE value="elasticsearch indexing update&#10;signals updating.." />
+    <option name="LAST_COMMIT_MESSAGE" value="elasticsearch indexing update&#10;signals updating.." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -486,13 +527,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/searchsite/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/searchsite/crawl/scrapData.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="703">
@@ -561,16 +595,6 @@
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/codecs.py" />
     <entry file="file://$PROJECT_DIR$/app/searchsite/migrations/__init__.py" />
     <entry file="file://$PROJECT_DIR$/app/searchsite/migrations/0001_initial.py" />
-    <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/result/search_list.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/searchsite/static/css/search.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../pylucene-master/jcc/setup.py" />
     <entry file="file://$PROJECT_DIR$/app/searchsite/crawl/fileIndexer.py" />
     <entry file="file://$PROJECT_DIR$/../pylucene-master/Makefile" />
@@ -587,20 +611,6 @@
     <entry file="file://$PROJECT_DIR$/../SubEmotionSearchProject/app/manage.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/searchsite/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -615,13 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/searchsite/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -651,16 +654,6 @@
           <caret line="1" selection-start-line="1" selection-end-line="1" />
           <folding>
             <element signature="e#23#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/searchsite/crawl/scrapData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -709,26 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/searchsite/search/search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/searchsite/search/signals.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/searchsite/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -745,11 +718,86 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/searchsite/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="399">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/searchsite/search/signals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/searchsite/search/search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/searchsite/crawl/scrapData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="33" column="35" selection-start-line="33" selection-end-line="34" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/searchsite/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="38" column="32" lean-forward="true" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/result/search_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/searchsite/static/css/search.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="65" column="1" lean-forward="true" selection-start-line="64" selection-start-column="28" selection-end-line="65" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="25" column="64" lean-forward="true" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
         </state>
       </provider>
     </entry>
