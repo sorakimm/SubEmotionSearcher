@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    {% for result in results %}
+        <div class="result">
+            <div class="filename">
+                <p>File Name: {{ result.smi_filename }}</p>
+            </div>
+            <div class="filename">
+                <p>{{ result.emotion }}</p>
+            </div>
+            <div class="sentence">
+                <p>{{ result.eng_sentence }}</p>
+                <p>{{ result.kor_sentence }}</p>
+            </div>
+        </div>
+    {% endfor %}
+{% endblock %}
+
+{% block pages %}
+    {% include 'result/page_list.html' %}
+{% endblock %}
+

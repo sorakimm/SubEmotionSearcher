@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa5a1138-1a4c-4fc8-b9f3-10fa1f8f20dd" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/app/searchsite/templetes/result/term_search_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/searchsite/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/searchsite/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/searchsite/crawl/EmotionClassifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/crawl/EmotionClassifier.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/searchsite/crawl/SubEditor.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/crawl/SubEditor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/searchsite/crawl/SubScraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/crawl/SubScraper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/searchsite/crawl/mylogging.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/crawl/mylogging.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/searchsite/crawl/scrapData.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/crawl/scrapData.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/searchsite/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/searchsite/search/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/search/search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/searchsite/static/css/search.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/static/css/search.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/searchsite/templetes/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/templetes/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/searchsite/templetes/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/templetes/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/searchsite/templetes/result/search_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/templetes/result/search_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/searchsite/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/searchsite/templetes/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/templetes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/searchsite/templetes/result/page_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/templetes/result/page_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/searchsite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/searchsite/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/views.py" afterDir="false" />
     </list>
@@ -36,22 +25,10 @@
       <file leaf-file-name="search.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/searchsite/search/search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6">
-              <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+            <state relative-caret-position="836">
+              <caret line="50" column="79" selection-start-line="50" selection-start-column="79" selection-end-line="50" selection-end-column="79" />
               <folding>
                 <element signature="e#0#53#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scrapData.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/searchsite/crawl/scrapData.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="33" column="35" selection-start-line="33" selection-end-line="34" />
-              <folding>
-                <element signature="e#0#47#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -60,8 +37,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/searchsite/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="69" column="53" lean-forward="true" selection-start-line="69" selection-start-column="53" selection-end-line="69" selection-end-column="53" />
+            <state relative-caret-position="437">
+              <caret line="102" column="48" selection-start-line="102" selection-start-column="48" selection-end-line="102" selection-end-column="48" />
               <folding>
                 <element signature="e#0#44#0" expanded="true" />
               </folding>
@@ -74,29 +51,29 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="term_search_list.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/result/term_search_list.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="search_list.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/result/search_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+            <state relative-caret-position="342">
+              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/home.html">
+      <file leaf-file-name="term_search_list.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/result/term_search_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="171">
+              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -104,26 +81,29 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="34" column="105" selection-start-line="34" selection-start-column="105" selection-end-line="34" selection-end-column="105" />
+            <state relative-caret-position="-1330">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/searchsite/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="152">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="search.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/searchsite/static/css/search.css">
+      <file leaf-file-name="page_list.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/result/page_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1235">
-              <caret line="65" column="1" selection-start-line="64" selection-start-column="28" selection-end-line="65" selection-end-column="1" />
+            <state relative-caret-position="527">
+              <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+              <folding>
+                <element signature="e#290#297#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -145,6 +125,7 @@
       <find>init</find>
       <find>win32'</find>
       <find>Subs</find>
+      <find>url</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -183,12 +164,14 @@
         <option value="$PROJECT_DIR$/app/searchsite/templetes/test.html" />
         <option value="$PROJECT_DIR$/app/searchsite/static/css/search.css" />
         <option value="$PROJECT_DIR$/app/searchsite/templetes/home.html" />
-        <option value="$PROJECT_DIR$/app/searchsite/templetes/result/term_search_list.html" />
-        <option value="$PROJECT_DIR$/app/searchsite/views.py" />
-        <option value="$PROJECT_DIR$/app/searchsite/templetes/base.html" />
         <option value="$PROJECT_DIR$/app/searchsite/search/search.py" />
         <option value="$PROJECT_DIR$/app/searchsite/templetes/result/search_list.html" />
         <option value="$PROJECT_DIR$/app/searchsite/urls.py" />
+        <option value="$PROJECT_DIR$/app/searchsite/views.py" />
+        <option value="$PROJECT_DIR$/app/searchsite/templetes/result/term_page_list.html" />
+        <option value="$PROJECT_DIR$/app/searchsite/templetes/result/page_list.html" />
+        <option value="$PROJECT_DIR$/app/searchsite/templetes/base.html" />
+        <option value="$PROJECT_DIR$/app/searchsite/templetes/result/term_search_list.html" />
       </list>
     </option>
   </component>
@@ -203,6 +186,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -275,7 +259,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -311,7 +294,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.runshell">
+  <component name="RunManager" selected="Python.runserver">
     <configuration name="makemigrations" type="PythonConfigurationType" factoryName="Python">
       <module name="SubEmoSearcher" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -466,7 +449,14 @@
       <option name="project" value="LOCAL" />
       <updated>1537907820549</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="result templates updating..">
+      <created>1538041451050</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1538041451050</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -474,42 +464,24 @@
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16200763" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5012953" side_tool="true" weight="0.328125" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32954547" />
-      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32678822" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49870467" visible="true" weight="0.3141655" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5012953" side_tool="true" weight="0.328125" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32819074" />
+      <window_info anchor="bottom" id="Version Control" order="18" weight="0.32954547" />
+      <window_info anchor="bottom" id="Python Console" order="17" weight="0.32678822" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49870467" visible="true" weight="0.3141655" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32678822" />
+      <window_info anchor="bottom" id="Terminal" order="16" weight="0.32678822" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997195" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.3997195" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.50906736" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49870467" weight="0.32398316" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997195" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32678822" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5012953" side_tool="true" weight="0.328125" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.328125" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -520,7 +492,8 @@
     <MESSAGE value="search index update..." />
     <MESSAGE value="elasticsearch indexing update&#10;signals updating.." />
     <MESSAGE value="navbar update" />
-    <option name="LAST_COMMIT_MESSAGE" value="navbar update" />
+    <MESSAGE value="result templates updating.." />
+    <option name="LAST_COMMIT_MESSAGE" value="result templates updating.." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -528,23 +501,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/config/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1634">
-          <caret line="86" selection-start-line="86" selection-end-line="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/searchsite/crawl/ISEAR.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/searchsite/crawl/scrapData.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -703,9 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="33" column="35" selection-start-line="33" selection-end-line="34" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -720,58 +677,75 @@
     <entry file="file://$PROJECT_DIR$/app/searchsite/tests.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/home.html">
+    <entry file="file://$PROJECT_DIR$/app/searchsite/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="34" column="105" selection-start-line="34" selection-start-column="105" selection-end-line="34" selection-end-column="105" />
+        <state relative-caret-position="152">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/searchsite/search/search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6">
-          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        <state relative-caret-position="836">
+          <caret line="50" column="79" selection-start-line="50" selection-start-column="79" selection-end-line="50" selection-end-column="79" />
           <folding>
             <element signature="e#0#53#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/result/term_search_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/searchsite/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="69" column="53" lean-forward="true" selection-start-line="69" selection-start-column="53" selection-end-line="69" selection-end-column="53" />
+        <state relative-caret-position="437">
+          <caret line="102" column="48" selection-start-line="102" selection-start-column="48" selection-end-line="102" selection-end-column="48" />
           <folding>
             <element signature="e#0#44#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/result/search_list.html">
+    <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        <state relative-caret-position="-1330">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/searchsite/urls.py">
+    <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/result/term_page_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="47" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/result/search_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/result/page_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+          <folding>
+            <element signature="e#290#297#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/result/term_search_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
         </state>
       </provider>
     </entry>

@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Search Result Page</title>
+        <title>Subtitle Search Site</title>
             <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
             <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
             <link rel="stylesheet" href="{% static 'css/search.css' %}">
@@ -28,15 +28,16 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav">
-                        <li class="{% if mode == 'joy' %}active{% endif %}"><a href="/search/emotion/joy/">Joy</a></li>
-                        <li class="{% if mode == 'sadness' %}active{% endif %}"><a href="/search/emotion/sadness/">Sadness</a></li>
-                        <li class="{% if mode == 'shame' %}active{% endif %}"><a href="/search/emotion/shame/">Shame</a></li>
-                        <li class="{% if mode == 'guilt' %}active{% endif %}"><a href="/search/emotion/guilt/">Guilt</a></li>
-                        <li class="{% if mode == 'disgust' %}active{% endif %}"><a href="/search/emotion/disgust/">Disgust</a></li>
+                        <li class="{% if mode == 'joy' %}active{% endif %}"><a href="/search/emotion/joy">Joy</a></li>
+                        <li class="{% if mode == 'sadness' %}active{% endif %}"><a href="/search/emotion/sadness">Sadness</a></li>
+                        <li class="{% if mode == 'shame' %}active{% endif %}"><a href="/search/emotion/shame">Shame</a></li>
+                        <li class="{% if mode == 'guilt' %}active{% endif %}"><a href="/search/emotion/guilt">Guilt</a></li>
+                        <li class="{% if mode == 'disgust' %}active{% endif %}"><a href="/search/emotion/disgust">Disgust</a></li>
                     </ul>
 
                     <div class="col-sm-3 col-md-3">
-                        <form class="navbar-form" role="search" action="{% url 'term_search_list' %}" method="get" accept-charset="utf-8">
+                        <form class="navbar-form" role="search" action="{% url 'search_list' %}" method="get" accept-charset="utf-8">
+                        <!--<form class="navbar-form" role="search" action="" method="get" accept-charset="utf-8">-->
                             <div class="input-group">
                                 <input type="text" class="form-control" placeholder="Search terms.." name="q">
                                 <div class="input-group-btn">
