@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa5a1138-1a4c-4fc8-b9f3-10fa1f8f20dd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/searchsite/templetes/result/term_search_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/searchsite/templetes/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/templetes/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/searchsite/templetes/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/templetes/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/searchsite/templetes/result/page_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/templetes/result/page_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/searchsite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/searchsite/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/searchsite/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="aa5a1138-1a4c-4fc8-b9f3-10fa1f8f20dd" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,8 +55,8 @@
       <file leaf-file-name="term_search_list.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/result/term_search_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+            <state relative-caret-position="285">
+              <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -456,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1538041451050</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="pagination update">
+      <created>1538061407124</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1538061407124</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -469,7 +468,7 @@
       <window_info anchor="bottom" id="Find" order="2" weight="0.32819074" />
       <window_info anchor="bottom" id="Version Control" order="18" weight="0.32954547" />
       <window_info anchor="bottom" id="Python Console" order="17" weight="0.32678822" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49870467" visible="true" weight="0.3141655" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49870467" weight="0.3141655" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="16" weight="0.32678822" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -493,7 +492,8 @@
     <MESSAGE value="elasticsearch indexing update&#10;signals updating.." />
     <MESSAGE value="navbar update" />
     <MESSAGE value="result templates updating.." />
-    <option name="LAST_COMMIT_MESSAGE" value="result templates updating.." />
+    <MESSAGE value="pagination update" />
+    <option name="LAST_COMMIT_MESSAGE" value="pagination update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -744,8 +744,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/searchsite/templetes/result/term_search_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        <state relative-caret-position="285">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
         </state>
       </provider>
     </entry>
